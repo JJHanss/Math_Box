@@ -8,4 +8,4 @@ def subtrac(a, b):
 
 
 def multiply(a, b):
-    return a*b
+    return a+b
